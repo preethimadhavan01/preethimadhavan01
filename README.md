@@ -8,4 +8,4 @@ I'm a backend engineer passionate about building scalable systems and exploring 
 - 💬 Ask me about **distributed systems, Golang concurrency, monitoring, and observability**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/preethi-sethumadhavan/)  
 - 😄 Pronouns: She/her  
-- ⚡ Fun fact: I once meditated for **100 hours**
+- ⚡ Fun fact: I once meditated for **100 hours** !!!

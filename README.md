@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**preethimadhavan01/preethimadhavan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a backend engineer passionate about building scalable systems and exploring AI/ML frameworks.
 
 - 🔭 I'm currently working on **Python & Golang** based backend projects  
